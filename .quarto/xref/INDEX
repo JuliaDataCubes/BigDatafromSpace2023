@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "d2ac06bd"
+  },
+  "about.qmd": {
+    "about.html": "8d5ee6fc"
+  },
+  "intro.qmd": {
+    "intro.html": "2bc009bb"
+  },
+  "chunking.qmd": {
+    "chunking.html": "e895cea8"
+  },
+  "intro-pkg.qmd": {
+    "intro-pkg.html": "c5b26511"
+  },
+  "intro-workflow.qmd": {
+    "intro-workflow.html": "f9a1662b"
+  },
+  "intro-repl.qmd": {
+    "intro-repl.html": "668598b0"
+  },
+  "rasterdata.qmd": {
+    "rasterdata.html": "8c32669b"
+  },
+  "vectordata.qmd": {
+    "vectordata.html": "f1b2e767"
+  }
+}
