@@ -1,1 +1,1 @@
-Sitemap: https://JuliaDataCubes.github.io/BigDatafromSpace2023/sitemap.xml
+Sitemap: https://github.com/JuliaDataCubes/BigDatafromSpace2023/sitemap.xml
