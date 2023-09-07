@@ -1,34 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<url>
-    <loc>https://rikhuijzer.github.io/JuliaTutorialsTemplate/tutorials/benchmarking/index.html</loc>
-    <lastmod>2023-08-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://rikhuijzer.github.io/JuliaTutorialsTemplate/tutorials/linear-model/index.html</loc>
-    <lastmod>2023-08-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://rikhuijzer.github.io/JuliaTutorialsTemplate/tutorials/ode/index.html</loc>
-    <lastmod>2023-08-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://rikhuijzer.github.io/JuliaTutorialsTemplate/getting-started/index.html</loc>
-    <lastmod>2023-08-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://rikhuijzer.github.io/JuliaTutorialsTemplate/index.html</loc>
-    <lastmod>2023-08-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
+  <url>
+    <loc>https://JuliaDataCubes.github.io/BigDatafromSpace2023/intro-pkg.html</loc>
+    <lastmod>2023-09-07T07:25:53.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JuliaDataCubes.github.io/BigDatafromSpace2023/intro-workflow.html</loc>
+    <lastmod>2023-09-07T07:25:53.833Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JuliaDataCubes.github.io/BigDatafromSpace2023/chunking.html</loc>
+    <lastmod>2023-09-07T07:25:54.025Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JuliaDataCubes.github.io/BigDatafromSpace2023/vectordata.html</loc>
+    <lastmod>2023-09-07T07:25:54.221Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JuliaDataCubes.github.io/BigDatafromSpace2023/intro-repl.html</loc>
+    <lastmod>2023-09-07T07:25:54.397Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JuliaDataCubes.github.io/BigDatafromSpace2023/about.html</loc>
+    <lastmod>2023-09-07T07:25:54.565Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JuliaDataCubes.github.io/BigDatafromSpace2023/index.html</loc>
+    <lastmod>2023-09-07T07:25:54.897Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JuliaDataCubes.github.io/BigDatafromSpace2023/rasterdata.html</loc>
+    <lastmod>2023-09-07T07:25:55.081Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JuliaDataCubes.github.io/BigDatafromSpace2023/intro.html</loc>
+    <lastmod>2023-09-07T07:25:55.261Z</lastmod>
+  </url>
 </urlset>

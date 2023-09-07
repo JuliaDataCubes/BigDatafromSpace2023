@@ -1,4 +1,1 @@
-Sitemap: https://rikhuijzer.github.io/JuliaTutorialsTemplate/sitemap.xml
-
-User-agent: *
-Disallow:
+Sitemap: https://JuliaDataCubes.github.io/BigDatafromSpace2023/sitemap.xml
