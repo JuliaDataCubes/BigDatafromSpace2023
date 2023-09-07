@@ -1,6 +1,7 @@
 project:
   type: website
-
+execute:
+  freeze: auto
 website:
   title: "Big Data from Space 2023 Julia Tutorial"
   navbar:
